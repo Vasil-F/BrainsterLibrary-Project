@@ -1,0 +1,27 @@
+.container-fluid .row .col img {
+    height: 200px;
+}
+
+body {
+    background-image: url(../Images/clouds2.webp);
+    background-color: rgba(188, 143, 143, 0.44);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    
+}
+
+.card {
+    background-color: rgba(183, 237, 255, 0.462);
+    background-blend-mode: multiply;
+   
+}
+
+.navbar {
+    background-color: rgba(183, 237, 255, 0.462);
+}
+
+footer {
+    background: linear-gradient(to top, #a2d0fe 0%, #ffffff 100%);
+   
+}
