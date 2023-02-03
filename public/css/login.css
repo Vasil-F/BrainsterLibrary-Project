@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to bottom, #99ccff 0%, #ffffff 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav {
+    background: linear-gradient(to top, #99ccff 0%, #ffffff 100%);
+}
+
+.btn {
+    background: linear-gradient(to top, #ffffcc 0%, #ffcc66 100%);
+}
+
+.btn:hover {
+    background: lightgoldenrodyellow;
+}
+
+footer {
+    background: linear-gradient(to top, #99ccff 0%, #ffffff 100%);
+   
+}

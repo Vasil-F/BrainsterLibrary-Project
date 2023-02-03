@@ -1,0 +1,42 @@
+body {
+    background-image: url("../Images/library2.jpeg");
+    background-color: rgba(23, 19, 19, 0.5);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    /* mix-blend-mode: hard-light; */
+}
+
+.font-22 {
+    font-size: 22px;
+}
+.font-20 {
+    font-size: 20px;
+}
+
+.h-500 {
+    height: 500px;
+}
+
+h2, h4 {
+    backdrop-filter: blur(3px);
+    color: 	rgb(255, 249, 230);
+    width: fit-content;
+    filter: drop-shadow(18px 18px 3px rgba(0, 0, 0, 0.641));
+}
+
+h5 {
+    color: rgb(252, 213, 174);
+    background-color: rgba(0, 0, 0, 0.516);
+    backdrop-filter: blur(3px);
+    width: fit-content;
+}
+
+#comContainer {
+    backdrop-filter: blur(3px);
+    background-color: rgba(0, 0, 0, 0.524);
+}
+#noteContainer {
+    backdrop-filter: blur(3px);
+    background-color: rgba(0, 0, 0, 0.524);
+}
