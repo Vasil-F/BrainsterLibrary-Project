@@ -1,0 +1,7 @@
+Table - authors (id, name, surname, bio, id_deleted(bool))
+Table - categories (id, title, is_deleted(bool))
+Table - books (id, title, author_id, year_published, pages, cover, category_id, is_deleted(bool))
+Table - comments (id, user_id, comment, created_at, approved) - public
+Table - notes (user_id, note) - private
+Table - Users (id, name, surname, email, password)
+Table - Admins (id, email, username, password)
